@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,figures",
+    "logging_enabled": "false",
+    "name": "figuresSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "figuresSmokeTest.js"
+}
